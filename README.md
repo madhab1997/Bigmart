@@ -1,0 +1,2 @@
+# Bigmart
+Multiple linear regression
